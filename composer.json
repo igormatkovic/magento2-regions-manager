@@ -1,5 +1,5 @@
 {
-    "name": "php-cuong/magento2-regions-manager",
+    "name": "igormatkovic/magento2-regions-manager",
     "description":"Manage regions in magento2 addresses",
     "keywords": [
         "magento 2",
@@ -10,8 +10,8 @@
         "Manage regions in magento2 addresses"
     ],
     "require": {
-        "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0",
-        "magento/module-backend": "100.0.*|100.1.*|100.2.*",
+        "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0",
+        "magento/module-backend": "100.0.*|100.1.*|100.2.*|101.*",
         "magento/framework": "100.0.*|100.1.*|101.0.*"
     },
     "type": "magento2-module",
